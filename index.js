@@ -45,29 +45,3 @@ function updateEmployeeWithKeyAndValue(employee, key, value) {
   console.log(employee);
   
  
-{
-    name: 'Eric';
-    age: 18;
-    jobTitle: 'Software Engineer';
-}
-  
-
-  {
-    name: 'Eric';
-    age: 18;
-    jobTitle: 'Software Engineer';
-  }
-  
-
-  {
-    name: 'Eric';
-    age : 18;
-  }
-  
-
-  {
-    name: 'Eric';
-    age: 18;
-  }
-   
-  
